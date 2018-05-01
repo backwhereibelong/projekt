@@ -1,12 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: suran
- * Date: 1.5.2018
- * Time: 10:42
- */
-
-
 <!doctype html>
 <html lang="en">
   <head>
